@@ -1,0 +1,11 @@
+Website Links:
+
+QEData
+
+- Main Website: www.qedata.io
+- Sentiment Analysis Model Web Application: http://qa.sentiment.qedata.io/#/
+- Cash flow Model Web Application: http://qa.mirai.qedata.io/#/
+
+Ceannate
+
+- Main Website: www.authenticaid.com
